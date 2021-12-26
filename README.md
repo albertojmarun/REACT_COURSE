@@ -7,3 +7,6 @@ This is a repository following a React Course from UDEMY.
 
 [Intro REACT](01-intro-react)
 Introduction to REACT with a simple app.
+
+[Intro JavaScript](02-intro-javascript)
+Explanation of the Basis of JavaScript.
